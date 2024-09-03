@@ -1,0 +1,7 @@
+Flask
+requests
+gunicorn
+flask-cors
+beautifulsoup4
+boto3
+canvasapi
